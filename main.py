@@ -7,10 +7,10 @@ def main():
     while True:
         # Muestra el menú principal
         print("Menú Principal:")
-        print("1) Calcular tu edad")
-        print("2) Da vuelta tu nombre")
-        print("3) Adivina un número en 1 y 10")
-        print("0) Salir")
+        print("[1] Calcular tu edad")
+        print("[2] Da vuelta tu nombre")
+        print("[3] Adivina un número en 1 y 10")
+        print("[0] Salir")
         
         # Solicita al usuario que ingrese una opción
         opcion = input("Ingrese una opción: ")
